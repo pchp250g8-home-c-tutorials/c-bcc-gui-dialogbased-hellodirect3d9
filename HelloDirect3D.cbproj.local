@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.204,D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\HelloDirect3D.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\HelloDirect3D.cbproj=D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\HelloDirect3D.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\HelloDirect3D.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\small.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\HelloDirect3D.c=D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\HelloDirect3D.rc</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\File1.c=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.184,D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\HelloDirect3DPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.435,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\resource.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.737,=D:\Projects\Programming\C\BDS\GUI\DoalogBased\Graphics\3D\HelloDirect3D\targetver.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.427,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
